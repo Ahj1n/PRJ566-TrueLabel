@@ -8,6 +8,6 @@ Our app helps consumers make smarter, more ethical shopping decisions by reveali
 # Team
 Aaron Klem – Project Manager  
 Furqan Khurrum – Lead Developer  
-Kai williams – Backend/Database Specialist  
+Kai Williams – Backend/Database Specialist  
 Marcos Ian Araujo – UI/UX Designer  
 Franz Balite – Research & Quality Assurance 
